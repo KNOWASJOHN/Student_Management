@@ -225,7 +225,7 @@ The application uses a connection pool with the following configurable propertie
 - [ ] Fee management module
 - [ ] Mobile app companion
 
-## 👨‍💻 Developer
+## 👨‍💻 Developers
 
 - **John** - [KNOWASJOHN](https://github.com/KNOWASJOHN)
 - **Athuljith** - [AthulJithVasudev](https://github.com/AthulJithVasudev)
