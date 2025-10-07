@@ -76,3 +76,5 @@ build/
 *.env
 *.properties
 *.json
+# Ignore specific service account key
+src/main/resources/serviceAccountKey.json
