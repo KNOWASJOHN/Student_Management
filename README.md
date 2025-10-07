@@ -228,4 +228,4 @@ The application uses a connection pool with the following configurable propertie
 ## 👨‍💻 Developer
 
 - **John** - [KNOWASJOHN](https://github.com/KNOWASJOHN)
-- **Sthuljith** - [AthulJithVasudev](https://github.com/AthulJithVasudev)
+- **Athuljith** - [AthulJithVasudev](https://github.com/AthulJithVasudev)
